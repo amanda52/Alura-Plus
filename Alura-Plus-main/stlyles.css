@@ -1,0 +1,11 @@
+@import url("stlyles/header.css");
+
+:root {
+ --cor-de-fundo:#F5F5F5;
+ --branco: #FFFFFF;
+ }
+
+ body {
+      background-color: var(--cor-de-fundo);
+}
+
